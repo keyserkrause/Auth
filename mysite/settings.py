@@ -1,3 +1,6 @@
+# pages_project/settings.py
+ALLOWED_HOSTS = ['*']
+
 """
 Django settings for mysite project.
 
